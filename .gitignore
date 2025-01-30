@@ -1,0 +1,22 @@
+# Ignore MacOS files
+.DS_Store
+
+# Ignore VSCode files
+.vscode
+
+# Ignore node_modules
+node_modules
+
+# Ignore build artifacts
+build
+
+# Ignore test files
+test
+
+# Ignore temporary files
+*~
+# Ignore env files
+.env
+
+# Ignore environment files
+myvenv
